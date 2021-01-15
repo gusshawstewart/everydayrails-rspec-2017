@@ -2,7 +2,7 @@
 
 Refer to the [Everyday Rails] blog for news on this edition of the book. You
 can find sample source for earlier editions in the [everydayrails
-organization] on GitHub. Thanks!
+organization] on GitHub. Thanks! ABC
 
 ---
 
