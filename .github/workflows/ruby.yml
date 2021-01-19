@@ -15,7 +15,6 @@ on:
 
 jobs:
     test:
-      if: github.event.label.name == "staging"
       runs-on: ubuntu-latest
       strategy:
         matrix:
