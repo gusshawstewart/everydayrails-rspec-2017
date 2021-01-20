@@ -12,7 +12,7 @@ repository demonstrates incremental testing of an existing application,
 starting with an untested codebase and working through model, controlsdfsdfssler,
 feature, and request specs.
 
-Each chapter's progress has a specific branch in this repository. See chapter
+Each chapter's progress has a specific branch in this rsepository. See chapter
 1 of the book for details.
 
 Using Git, you can check out each version by name. See details in the book.
@@ -29,3 +29,4 @@ sdfg
 adfds
 sdfs
 sdfs
+sadfs
